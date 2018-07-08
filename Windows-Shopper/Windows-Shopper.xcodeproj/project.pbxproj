@@ -15,6 +15,7 @@
 		E303B38220C86D4C0073E1DC /* Windows_ShopperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E303B38120C86D4C0073E1DC /* Windows_ShopperTests.swift */; };
 		E303B38D20C86D4C0073E1DC /* Windows_ShopperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E303B38C20C86D4C0073E1DC /* Windows_ShopperUITests.swift */; };
 		E303B39D20C88BDA0073E1DC /* CurrencyTxtField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E303B39C20C88BDA0073E1DC /* CurrencyTxtField.swift */; };
+		E312CFEB20F2BF7400F972F1 /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36A786720C8EC2100A8FB8E /* Wage.swift */; };
 		E36A786820C8EC2100A8FB8E /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36A786720C8EC2100A8FB8E /* Wage.swift */; };
 		E36A786920C8ED5700A8FB8E /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36A786720C8EC2100A8FB8E /* Wage.swift */; };
 /* End PBXBuildFile section */
@@ -308,6 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E303B38D20C86D4C0073E1DC /* Windows_ShopperUITests.swift in Sources */,
+				E312CFEB20F2BF7400F972F1 /* Wage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
